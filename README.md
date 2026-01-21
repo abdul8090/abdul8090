@@ -48,7 +48,6 @@ I help businesses build **fast, secure, and conversion-focused websites** using
 ## 📈 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdul8090&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul8090&layout=compact&theme=github_dark)
 
 </div>
